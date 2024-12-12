@@ -1,0 +1,1 @@
+This project is a book recommender system designed to suggest books based on user preferences. It uses simple algorithms to match books with what users might enjoy. The goal is to help users discover new books easily.
